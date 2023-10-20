@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Babylonica&family=Comforter+Brush&family=Dancing+Script:wght@400;600;700&family=Great+Vibes&family=Kalam:wght@300&family=Mr+Dafoe&family=Noto+Sans+KR:wght@100&family=Permanent+Marker&family=Petemoss&family=Playpen+Sans:wght@300&family=Qwigley&family=Roboto:ital,wght@0,100;1,100&family=Sacramento&family=Tilt+Prism&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+h1
+{
+    color:#AFEAAC;
+}
+body
+{
+    font-size: 20px;
+    text-align: center;
+}
+ul.x
+{
+    list-style-position: inside;
+    background-color: #AFEAAC;
+    list-style-type: square;
+}
+ul.y
+{
+    list-style-position: inside;
+    list-style-type: square;
+    background-color: #AFEAAC;
+
+}
