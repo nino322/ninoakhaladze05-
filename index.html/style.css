@@ -1,29 +1,37 @@
-@import url('https://fonts.googleapis.com/css2?family=Babylonica&family=Comforter+Brush&family=Dancing+Script:wght@400;600;700&family=Great+Vibes&family=Kalam:wght@300&family=Mr+Dafoe&family=Noto+Sans+KR:wght@100&family=Permanent+Marker&family=Petemoss&family=Playpen+Sans:wght@300&family=Qwigley&family=Roboto:ital,wght@0,100;1,100&family=Sacramento&family=Tilt+Prism&display=swap');
 *
 {
     margin: 0;
     padding: 0;
-    font-family: 'Roboto', sans-serif;
 }
-h1
+.secondary_btn
 {
-    color:#AFEAAC;
-}
-body
-{
-    font-size: 20px;
+    width: 102px;
+    height: 51px;
+    border: 1px solid #6c63FF;
+    border-radius: 2px;
+    background-color: transparent;
+    font-family: 'openSanMine';
+    font-style:normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
     text-align: center;
+    color: #6c63FF;
+    text-transform: capitalize;
+    margin-right: 16px;
 }
-ul.x
+.primary_btn
 {
-    list-style-position: inside;
-    background-color: #AFEAAC;
-    list-style-type: square;
-}
-ul.y
-{
-    list-style-position: inside;
-    list-style-type: square;
-    background-color: #AFEAAC;
-
+    width: 140px;
+    height: 51px;
+    background:#6c63FF;
+    border: 1px solid #6c63FF;
+    border-radius: 2px;
+    font-family: 'openSanMine';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    text-align: center;
+    color: #fff;
+    text-transform: capitalize;
 }
